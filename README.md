@@ -21,7 +21,7 @@ When I'm not coding or pushing pixels, you'll find me gaming, gardening, watchin
 
 You can find me on the following social media platforms or send me an email:
 
-- 👔 [LinkedIn](https://www.linkedin.com/in/gentle/)
-- 📷 [Instagram](https://www.instagram.com/_gentlejoseph)
-- ✉️ [writetogentle@gmail.com](mailto:writetogentle@gmail.com)
-- 🌐 [Portfolio](https://gentlejoseph.com/)
+- 👔 &nbsp;[LinkedIn](https://www.linkedin.com/in/gentle/)
+- 📷 &nbsp;[Instagram](https://www.instagram.com/_gentlejoseph)
+- ✉️ &nbsp;[writetogentle@gmail.com](mailto:writetogentle@gmail.com)
+- 🌐&nbsp;[Portfolio](https://gentlejoseph.com/)
