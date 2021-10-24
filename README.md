@@ -15,7 +15,7 @@ When I'm not coding or pushing pixels, you'll find me gaming, gardening, watchin
 - 🌱 &nbsp;I’m currently learning NextJs, Storybook and React Native
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Angular/React/NextJs
 - 📫 &nbsp;How to reach me: [writetogentle@gmail.com](mailto:writetogentle@gmail.com)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:&nbsp;s
+- ⚡ &nbsp;Fun fact: I am hardcore gamer 🎮
 
 ## Social 📱
 
