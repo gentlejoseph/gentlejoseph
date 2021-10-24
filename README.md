@@ -24,4 +24,4 @@ You can find me on the following social media platforms or send me an email:
 - 👔 &nbsp;[LinkedIn](https://www.linkedin.com/in/gentle/)
 - 📷 &nbsp;[Instagram](https://www.instagram.com/_gentlejoseph)
 - ✉️ &nbsp;[writetogentle@gmail.com](mailto:writetogentle@gmail.com)
-- 🌐&nbsp;[Portfolio](https://gentlejoseph.com/)
+- 🌐 &nbsp;[Portfolio](https://gentlejoseph.com/)
