@@ -25,5 +25,3 @@ You can find me on the following social media platforms or send me an email:
 - 📷 &nbsp;[Instagram](https://www.instagram.com/_gentlejoseph)
 - ✉️ &nbsp;[writetogentle@gmail.com](mailto:writetogentle@gmail.com)
 - 🌐 &nbsp;[Portfolio](https://gentlejoseph.com/)
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="gentlejoseph" data-color="#7423ff" data-emoji=""  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
